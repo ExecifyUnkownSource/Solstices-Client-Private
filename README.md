@@ -17,5 +17,3 @@ I’m fully committed to making this project better than where it started. Feedb
 (Slide note)
 
 I’ll be staying on top of updates and doing everything I can to make the client better overall — especially when it comes to PVP features. That’s one of my main focuses.
-
-On top of that, I’m planning to bring Solstices to Bedrock too. I’ll be looking to bring on a developer to help create a version specifically for crystal PVP on Bedrock, so Bedrock players can finally have something solid and competitive to use against java players.
