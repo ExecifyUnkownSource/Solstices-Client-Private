@@ -12,3 +12,9 @@ If I do intend to use someone's else code I will provide the source where I got 
 **Solstices Private** is going to be actively maintained, and I’ll be pushing out regular updates. I’m focusing on CPVP and real features that are useful — not just random stuff to make it look bloated. The paid version will stay **updated**, and I’m constantly working on AntiCheat bypasses to make sure it stays that way.
 
 I’m fully committed to making this project better than where it started. Feedback is always welcome, and I’m constantly working to make it overall work and updated.
+
+(Slide note)
+
+I’ll be staying on top of updates and doing everything I can to make the client better overall — especially when it comes to PVP features. That’s one of my main focuses.
+
+On top of that, I’m planning to bring Solstices to Bedrock too. I’ll be looking to bring on a developer to help create a version specifically for crystal PVP on Bedrock, so Bedrock players can finally have something solid and competitive to use against java players.
